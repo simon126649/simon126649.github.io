@@ -12,11 +12,3 @@
 
 
 1. changlog：2018/1/23 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
-=======
-
->>>>>>> origin/master
