@@ -1,3 +1,11 @@
+---
+layout: post
+title: "美是什么"
+description: "李泽厚谈美"
+category: blog
+---
+
+
 # 《美学四讲》李泽厚著（2006.12） #
 
 **作者其人**
