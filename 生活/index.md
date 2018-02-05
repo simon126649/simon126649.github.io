@@ -5,7 +5,7 @@ layout: home
 <div class="index-content 生活">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Blog</span></a></li>
+            <li><a href="/"><span>工作</span></a></li>
             <li style="text-align:center"><a href="/生活"><span> 生活</span></a></li>
             <li class="on" style="text-align:right"><a href="/家庭"><span>家庭</span></a></li>
         </ul>
