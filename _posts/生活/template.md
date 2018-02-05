@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "your title"
-category: travel
+category: 生活
 description: “short description”
 ---
 
-[TianJie]:    https://violettianjie.github.io  "TianJie"
+[Jiangxu]:    https://simon126649.github.io  "Jiangxu"
