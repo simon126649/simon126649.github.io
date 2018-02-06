@@ -4,9 +4,4 @@ title: "your title"
 category: 家庭
 description: "short description"
 ---
-# [{{ page.title }}][1]
-2015-12-12 By {{ site.author_info }}
-
-
-[Yannch]:    http://camscofie.github.io  "Yannch"
-[1]:    {{ page.url}}  ({{ page.title }})
+[Jiangxu]:    https://simon126649.github.io  "Jiangxu"
