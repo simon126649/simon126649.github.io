@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "your title"
-category:家庭
+category: 家庭
 description: "short description"
 ---
 # [{{ page.title }}][1]
