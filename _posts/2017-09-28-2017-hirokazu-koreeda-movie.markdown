@@ -1,10 +1,10 @@
 ---
 layout: movie
-title:  "是枝裕和导演电影四部"
+title:  "Simon喜欢的经典电影"
 categories: Movie
 tags: Movie
 author: 西夏
-description: 四部是枝裕和导演的电影，四部很暖心的电影。
+description: 收集100部Simon喜欢的经典电影。
 ---
 
 {% for movie in site.data.movie._2017_hirokazu_koreeda %}
@@ -23,7 +23,7 @@ description: 四部是枝裕和导演的电影，四部很暖心的电影。
     </div>
     <div class="content">
         <span class='title' style="color:transparent;"></span><br/>
-        <span class='pl'>西夏说</span>: <br/>
+        <span class='pl'>Simon说</span>: <br/>
         <span>{{ movie.comments }}</span>
     </div>
 </div>
