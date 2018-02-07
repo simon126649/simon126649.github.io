@@ -1,6 +1,6 @@
 ---
 layout: movie
-title:  "Simon喜欢的经典电影"
+title:  "Simon喜欢的100部经典电影"
 categories: Movie
 tags: Movie
 author: 西夏
